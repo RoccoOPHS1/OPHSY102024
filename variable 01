@@ -1,0 +1,18 @@
+email = "arthur@icloud.com"
+name = "arthur"
+console = "ps5"
+age = 69
+
+
+#there are more than 2 datas above 
+#one is called "email"
+#one is called "name"
+#both contain data 
+
+
+print(email)
+print(name)
+print(console)
+print(age)
+#print is a function
+#it displays text to the screen
