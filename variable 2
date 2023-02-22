@@ -1,0 +1,17 @@
+name = str(input("enter name")) 
+print(name)
+
+age = int(input("enter age"))
+print(age)
+
+colour = str(input("whats your favourite colour"))
+print(colour)
+
+console = str(input("what console do you play"))
+print(console)
+
+hair = str(input("what colours your hair"))
+print(hair)
+
+song = str(input("whats your favourite song"))
+print(song)
