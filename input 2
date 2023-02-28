@@ -1,0 +1,11 @@
+team1name = "uk"
+team2name = "america"
+
+FREETHROW = 1
+TWOPOINTER = 2 
+THREEPOINTER = 3
+
+#in the game of basketball
+#the points will never change
+#it makes sense to
+#define the points in CONSTANTS
