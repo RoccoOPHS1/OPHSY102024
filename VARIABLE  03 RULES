@@ -1,0 +1,9 @@
+#Rules of variables 
+
+#1 canot have a space
+#2 can NOT start with a number
+#3 can end with a number
+#4 can contain an underscore _
+#underscore is next to 0
+
+this_is_an_ok_variable = true
