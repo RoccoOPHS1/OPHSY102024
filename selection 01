@@ -1,0 +1,15 @@
+#selection
+
+team1points = -9 
+team2points = 19
+team3points = 17
+
+if team1points < 0:
+   print("team1has",team1points)
+
+
+if team2points > 10:
+  print("team2has",team2points)
+
+if team3points >= 5:
+    print("team3has",team3points)
