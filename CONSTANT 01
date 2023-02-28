@@ -1,0 +1,9 @@
+#this is a CONSTANT
+#Here is the difference
+#variables are NOT in CAPITALS
+#CONSTANTS are in ALL CAPITALS
+
+name = "bob" #variable
+PI = 3.1415927 #CONSTANT
+AVERAGADOSCONSTANT = 6.0200000000000000000000000 #CONSTANT
+DATEOFBIRTH = "08/01/08
