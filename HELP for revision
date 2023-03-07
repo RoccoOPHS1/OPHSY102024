@@ -1,0 +1,56 @@
+age = 15              #integer
+name = "rocco"    #string
+favcolour = "purple" #string
+character = "L"    #string
+float = 6.9         #float
+boolean = True      #boolean
+
+status = str(input("how are you?"))
+
+age = int(input("enter age"))
+
+town = str(input("where are you from?"))
+
+#this is how you would assign codes for 
+#the user to answer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
