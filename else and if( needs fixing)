@@ -1,0 +1,32 @@
+print("hello")
+
+
+day = str(input("how was your day today?"))
+plans= str(input("do you have any plans today?"))
+
+if plans == "yes":
+  str(input("oo what are your plans for today?!"))
+  print("that sounds nice")
+  print("well enjoy your day! :)")
+
+else:
+  str(input("why not?"))
+  print("thats understandable")
+  str(input("will you be making plans soon?"))
+  if plans == "yes":
+    print("thats amazing!")
+    str(input("what do you reckon youll do"))
+  if plans == "idk" or "i dont know" or "no" or "nah":
+    print("THINK HARDER")
+    
+  else: print("wow that sounds fun, im jelous")
+  print("can i come PLEASE")
+
+if answer == "yes" or "yeah":
+  print("YAYY")
+
+elif answer == "no" or "nah":
+  print("awh man")
+  
+else:
+  print("ima give you more time to think about it")
